@@ -1,5 +1,5 @@
 <x-layout>
-    <h2>Inicio</h2>
+    <h2>Inicio estudiantes</h2>
 </x-layout>
 
 <x-materias>

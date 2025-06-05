@@ -1,3 +1,3 @@
 <x-layout>
-    <h2>Inicio</h2>
+    <h2> crear notas</h2>
 </x-layout>

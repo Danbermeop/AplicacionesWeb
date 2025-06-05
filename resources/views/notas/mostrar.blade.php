@@ -1,3 +1,3 @@
 <x-layout>
-    <h2>mostrar notas</h2>
+    <p>mostrar notas</p>
 </x-layout>
